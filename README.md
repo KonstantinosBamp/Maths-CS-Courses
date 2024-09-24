@@ -5,6 +5,5 @@ This repository contains my work for CS and Mathematics courses from various US 
 ### Stanford CS160B - Programming Abstractions  <br />
 ### UC Berkeley CS61A - Structure and Interpretation of Computer Programs <br />
 ### UC Berkeley CS61B - Data Structures (+ CS 47B) <br />
-### UC Berkeley CS70 - Discrete Mathematics and Probability Theory <br />
 ### Harvard CSE22 - Data Structures in Java <br />
 https://cscie22.sites.fas.harvard.edu/
